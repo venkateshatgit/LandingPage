@@ -28,6 +28,7 @@ body{
 }
 #nav-bar a{
     text-decoration: none;
+    color: black;
 }
 
 .form{
@@ -92,8 +93,12 @@ input{
 
 .features-content h1{
     font-family: 'Roboto', sans-serif;
+    font-size: 2.5rem;
 }
 
+.features-content p{
+    font-size: 1rem;
+}
 #whats-new{
     margin: 70px ;
 }
